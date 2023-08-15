@@ -35,7 +35,7 @@ You can refer to the following articles on **_basics of Git and Github and also 
 <h2 align=center> 📝 How to Contribute? </h2>  
 
 - Take a look at [Contributing Guide](https://github.com/avinashkranjan/Amazing-Python-Scripts/blob/master/CONTRIBUTING.md)
-- Take a look at the Existing Issues or create your own Issues!
+- Take a look at the Existing Issues or create your Issues!
 - Wait for the Issue to be assigned to you after which you can start working on it.
 - Fork the Repo and create a Branch for any Issue that you are working upon.
 - Create a Pull Request which will be promptly reviewed and suggestions would be added to improve it.
@@ -44,6 +44,9 @@ You can refer to the following articles on **_basics of Git and Github and also 
 <h2 align=center> ✨ Contributors </h2>
 
 Thanks go to these **Wonderful People** 👨🏻‍💻:      🚀 **Contributions** of any kind are welcome! 
+<p>
+  <img src="https://api.vaunt.dev/v1/github/entities/avinashkranjan/repositories/Amazing-Python-Scripts/contributors?format=svg&limit=54" height"250" />
+</p>
 
 <table>
 	<tr>
@@ -59,24 +62,10 @@ Thanks go to these **Wonderful People** 👨🏻‍💻:      🚀 **Contributio
 
 [![Stargazers over time](https://starchart.cc/avinashkranjan/Amazing-Python-Scripts.svg)](https://starchart.cc/avinashkranjan/Amazing-Python-Scripts)
 
-<h1 align=center> Project Maintainers ❤️ </h1>
-<table>
-<tr>
-<td align="center"><a href="https://github.com/avinashkranjan"><img src="https://user-images.githubusercontent.com/55796944/95675026-dab07580-0bd1-11eb-93e2-1cb1de8acf38.png" width=150px height=150px /></a></br> <h4 style="color:red;">Avinash Ranjan</h4>
-<a href="https://www.linkedin.com/in/avinashkranjan/"><img src="https://mpng.subpng.com/20180324/vhe/kisspng-linkedin-computer-icons-logo-social-networking-ser-facebook-5ab6ebfe5f5397.2333748215219374063905.jpg" width="32px" height="32px"></a></td>
+## License
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-<td align="center" ><a href="https://github.com/kaustubhgupta"><img src="https://user-images.githubusercontent.com/55796944/119778028-95348480-bee4-11eb-86b2-0ba065316e5f.jpg" width=150px height=150px /></a></br> <h4 style="color:red;">Kaustubh Gupta</h4>
-<a href="https://www.linkedin.com/in/kaustubh-gupta/"><img src="https://mpng.subpng.com/20180324/vhe/kisspng-linkedin-computer-icons-logo-social-networking-ser-facebook-5ab6ebfe5f5397.2333748215219374063905.jpg" width="32px" height="32px"></a></td>
+Terms and conditions for use, reproduction and distribution are under the [MIT License](https://opensource.org/license/mit/).
 
-<td align="center"><a href="https://github.com/antrikshmisri"><img src="https://user-images.githubusercontent.com/55796944/119777909-72a26b80-bee4-11eb-829d-e5baa76bdb75.jpg" width=150px height=150px /></a></br> <h4 style="color:red;">Antriksh Misri</h4>
-<a href="https://www.linkedin.com/in/antriksh-misri-b631361a1/"><img src="https://mpng.subpng.com/20180324/vhe/kisspng-linkedin-computer-icons-logo-social-networking-ser-facebook-5ab6ebfe5f5397.2333748215219374063905.jpg" width="32px" height="32px"></a></td>
-
-<td align="center"><a href="https://github.com/santushtisharma10"><img src="https://user-images.githubusercontent.com/55796944/119778363-0c6a1880-bee5-11eb-9929-f74661ff38f5.jpg" width=150px height=150px /></a></br> <h4 style="color:red;">Santushti Sharma</h4>
-<a href="https://www.linkedin.com/in/santushti-sharma-9b65a6192/"><img src="https://mpng.subpng.com/20180324/vhe/kisspng-linkedin-computer-icons-logo-social-networking-ser-facebook-5ab6ebfe5f5397.2333748215219374063905.jpg" width="32px" height="32px"></a></td>
-
-<td align="center"><a href="https://github.com/Kushal997-das"><img src="https://user-images.githubusercontent.com/55796944/119778722-7b477180-bee5-11eb-9c20-172a31199dd3.jpg" width=150px height=150px /></a></br> <h4 style="color:red;">Kushal Das</h4> <a href="https://www.linkedin.com/in/kushal-das-7337421a9/"><img src="https://mpng.subpng.com/20180324/vhe/kisspng-linkedin-computer-icons-logo-social-networking-ser-facebook-5ab6ebfe5f5397.2333748215219374063905.jpg" width="32px" height="32px"></a></td>
-
-</tr>
-</table>
 
 <h1 align=center>Happy Coding 👨‍💻 </h1>

@@ -1,12 +1,15 @@
 try:
+    import sys
     import requests
     from bs4 import BeautifulSoup
     import urllib.parse as parse
     import re
     import argparse
 
-except ImportError:
-    print('Some modules are not installed! ')
+except ImportError as e:
+    print('Terminal Error! ')
+    print(f'System module import error: {e}')
+    sys.exit(1)
 
 # mainly bs4 lib is used for extracting html from web pages
 
@@ -44,9 +47,8 @@ def details(soup):
 
 def entry():
     print("\nType complete name>>\n")
-    anime_name = input(
-        "[+] Enter the name of the Anime : ").strip().title().replace(
-            " ", "-")
+    anime_name = input("Enter the name of the anime : ")
+    anime_name = (" ".join(anime_name.split())).title().replace(" ", "-")
 
     print("\n")
     print(anime_name)
